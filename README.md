@@ -24,6 +24,9 @@ https://developer.android.com/studio/install
 Kotlin Playground
 https://developer.android.com/training/kotlinplayground
 
+Vocabulary for Android Basics:
+https://developer.android.com/courses/android-basics-kotlin/android-basics-kotlin-vocab
+
 To Join GDSC :
 https://gdsc.community.dev/national-institute-of-technology-nit-hamirpur/
 4. Tip Calculator application
