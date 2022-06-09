@@ -71,36 +71,15 @@ If you were unable to attend the Android Study Jams, we have a jam-packed schedu
 You can also watch recordings of the videos for a deeper understanding.<br>
 
 Follow the steps mentioned below :
-1. Create your <a href="https://google.dev/u/new"> Developers Profile.<br>
-2. Install <a href="https://developer.android.com/studio/install">Android studio. (Refer to video and guide)
-3. Start android Kotlin course by Google.
-4. Practice code on Kotlin Playground.
-5. Attend all the Codelabs for a deeper understanding
-6. Sign in with your account to earn badges.
+1. Create your <a href="https://google.dev/u/new"> Developers Profile.<br></a>
+2. Install <a href="https://developer.android.com/studio/install">Android studio. (Refer to the <a href="https://developer.android.com/studio/intro"> guide</a>)
+3. Start android Kotlin <a href="https://developer.android.com/courses/android-basics-kotlin/course">course</a> by Google.
+4. Practice code on <a href="https://developer.android.com/training/kotlinplayground"> Kotlin Playground</a>.
+  5. Refer to <a href="https://developer.android.com/courses/android-basics-kotlin/android-basics-kotlin-vocab">Android Vocabulary</a> for minor doubts.
+6. Attend all the Codelabs in the course for a deeper understanding
+7. Sign in with your account to earn badges.
+
+  ### Join <a href="https://gdsc.community.dev/national-institute-of-technology-nit-hamirpur/">GDSC NIT Hamirpur Chapter</a> to get latest details regarding events.
+  
 
 
-
-Official Android Website :
-https://developer.android.com/
-
-ANDROID KOTLIN COURSE :- https://developer.android.com/courses/android-basics-kotlin/course
-
-DOWNLOAD ANDROID STUDIO & GUIDE:- https://developer.android.com/studio#downloads
-
-https://developer.android.com/studio/install
-
-Kotlin Playground
-https://developer.android.com/training/kotlinplayground
-
-Vocabulary for Android Basics:
-https://developer.android.com/courses/android-basics-kotlin/android-basics-kotlin-vocab
-
-Everything abouot Android Studio
-https://developer.android.com/studio/intro
-
-To Join GDSC :
-https://gdsc.community.dev/national-institute-of-technology-nit-hamirpur/
-linkedin , insta, twitter
-4. Tip Calculator application
-8. Helping hands
-9. gdsc social media links.
