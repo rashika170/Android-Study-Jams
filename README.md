@@ -6,10 +6,10 @@ Android Study Jams are community-organized study groups for people to learn how 
 Android Study Jams were organized at GDSC NIT Hamirpur by the Android Team. Students were mentored for a month in Android fundamentals to advanced concepts. The objective of the event was to pique students' interest in Android Development by showcasing various career opportunities in the domain. Programs were conducted via Google Meet sessions and doubts were clarified via emails and WhatsApp groups. It was an active learning environment, where students gave positive feedback, and the students benefited from the interaction. Students who performed exceptionally well in Android Study Jams also received certificates of appreciation.
 
 ## Android Team at GDSC NIT Hamirpur
-<B>GDSC LEAD - </B><a href="https://www.linkedin.com/in/vaibhav-pathak-6a4301158/"> Vaibhav Pathak <br>
-<b>ANDROID LEAD - </b><a href="https://www.linkedin.com/in/abhi-khandelwal-30b06a190/"> Abhi Khandelwal <br>
-<b>ANDROID TEAM MEMBER - </b><a href="https://www.linkedin.com/in/shreyansh-jain-1370811b6/"> Shreyansh Jain <br>
-<b>ANDROID TEAM MEMBER - </b><a href="https://www.linkedin.com/in/rashika-dubey-b543b7206/"> Rashika Dubey <br>
+<B>GDSC LEAD - </B><a href="https://www.linkedin.com/in/vaibhav-pathak-6a4301158/"> Vaibhav Pathak</a> <br>
+<b>ANDROID LEAD - </b><a href="https://www.linkedin.com/in/abhi-khandelwal-30b06a190/"> Abhi Khandelwal</a> <br>
+<b>ANDROID TEAM MEMBER - </b><a href="https://www.linkedin.com/in/shreyansh-jain-1370811b6/"> Shreyansh Jain</a> <br>
+<b>ANDROID TEAM MEMBER - </b><a href="https://www.linkedin.com/in/rashika-dubey-b543b7206/"> Rashika Dubey</a> <br>
 
 ## Timeline of Android Study Jams
 ### 1)<b>18th December <br> </b>
@@ -48,13 +48,14 @@ A summary of the topics covered could be summarized as follows :
   
 ### 4)<b>25th December <br> </b>
  <b> <em>Advance Android Programming</em></b>
+  This was the final session of android study jams where a prior coding experience was mandatory. Students were required to have a sound knowledge of previously taught concepts so as to comprehend concepts of this session. <br>
+  A summary of the topics covered could be summarized as follows :
+  * Data persistence : * Introduction to sql, Room and Flow
+  * Use Room for Data Persistence
+  * Work Manager : Schedule tasks
   
 <img src="https://user-images.githubusercontent.com/77115663/172836067-481212c8-384d-4d3f-a51f-7875647fc386.PNG" width=800 height=400>
 <img src="https://user-images.githubusercontent.com/77115663/172836087-d8442149-d8c4-459a-8e1a-99f31aa15446.PNG" width=800 height=400>
- 
-
-
-
 
 ### Recorded Sessions
 Listed here are links to recordings of the three Android Study Jams sessions by the Android Team of  GDSC at the National Institute of Technology Hamirpur.<br>
@@ -65,10 +66,19 @@ Listed here are links to recordings of the three Android Study Jams sessions by 
 3.[Recording of Session 3](https://www.youtube.com/watch?v=SdE6d1BcVtU) - Advance Android Programming <br>
 
 
+### Start your Android Study Jam Today
+If you were unable to attend the Android Study Jams, we have a jam-packed schedule to get you started. 
+You can also watch recordings of the videos for a deeper understanding.<br>
 
-### Important Links
-Link to create Google Developers Account :
-https://google.dev/u/new
+Follow the steps mentioned below :
+1. Create your <a href="https://google.dev/u/new"> Developers Profile.<br>
+2. Install <a href="https://developer.android.com/studio/install">Android studio. (Refer to video and guide)
+3. Start android Kotlin course by Google.
+4. Practice code on Kotlin Playground.
+5. Attend all the Codelabs for a deeper understanding
+6. Sign in with your account to earn badges.
+
+
 
 Official Android Website :
 https://developer.android.com/
@@ -90,9 +100,7 @@ https://developer.android.com/studio/intro
 
 To Join GDSC :
 https://gdsc.community.dev/national-institute-of-technology-nit-hamirpur/
+linkedin , insta, twitter
 4. Tip Calculator application
-5. Participation, enthusiasm 
-6. Kotlin cources and concepts we made them understand
-7. certification
 8. Helping hands
 9. gdsc social media links.
