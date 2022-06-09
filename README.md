@@ -14,14 +14,28 @@ A summary of the topics covered could be summarized as follows :
 * Installation of Android Studio
 * Basics of Kotlin - Loops, Functions, Classes, Arrays and Conditional Statements 
   
-  
-  
-
-  
 2)<b>19th December <br> </b> 
-  <em>Build your first App</em>
+  <b><em>Build your first App</em></b><br>
+  An application that built a tip calculator gave a broad overview of the various pertinent topics in Android in the second session of the Android Study Jams. 
+  Kotlin basics were also discussed to alleviate doubts.<br>
+  A summary of the topics covered could be summarized as follows :
+  * Building  Basic Layout of app (XML and UI of an app)
+  * Add a button to an app (Actions to perform on components)
+  * Getting User Input 
+  * Display a Scroll Bar List(Radio Buttons, Check Boxes, and Spinners)
+  * Navigation activity (navigate between screens & navigation components)
   
-3)<b>25th December <br> </b>
+  <h4>To know more about Tip Calculator App<a href="https://github.com/khandelwalabhi/TipCalculator"> visit here </a><br></h4>
+
+3)<b>20th December- 24th December</b><br>
+  <b><em>Assignment week</em></b><br>
+  This week's goal was for students to realize and apply what they have learned so far. Furthermore, they were required to complete Units 3 and 4 of Android Basics in   Kotlin in addition to ample practice time.<br>
+  The following are the topics the students were assigned to study :
+  * Architecture components
+  * Adaptive Layouts
+  * Connect to the internet  
+  
+4)<b>25th December <br> </b>
   <em>Advance Android Programming</em>
 
 
