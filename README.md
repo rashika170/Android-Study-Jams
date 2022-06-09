@@ -72,10 +72,10 @@ You can also watch recordings of the videos for a deeper understanding.<br>
 
 Follow the steps mentioned below :
 1. Create your <a href="https://google.dev/u/new"> Developers Profile.<br></a>
-2. Install <a href="https://developer.android.com/studio/install">Android studio. (Refer to the <a href="https://developer.android.com/studio/intro"> guide</a>)
+2. Install <a href="https://developer.android.com/studio/install">Android studio</a>. (Refer to the <a href="https://developer.android.com/studio/intro"> guide</a>)
 3. Start android Kotlin <a href="https://developer.android.com/courses/android-basics-kotlin/course">course</a> by Google.
 4. Practice code on <a href="https://developer.android.com/training/kotlinplayground"> Kotlin Playground</a>.
-  5. Refer to <a href="https://developer.android.com/courses/android-basics-kotlin/android-basics-kotlin-vocab">Android Vocabulary</a> for minor doubts.
+5. Refer to <a href="https://developer.android.com/courses/android-basics-kotlin/android-basics-kotlin-vocab">Android Vocabulary</a> for minor doubts.
 6. Attend all the Codelabs in the course for a deeper understanding
 7. Sign in with your account to earn badges.
 
