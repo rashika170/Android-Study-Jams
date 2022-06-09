@@ -1,11 +1,11 @@
-# Android-Study-Jams_GDSC_NITH
+# Android-Study-Jams
 
 ## Google Developers Student Club 
 
 <Introduction about asj 1 para>
 
-### Timeline of Android Study Jams
-1)<b>18th December <br> </b>
+## Timeline of Android Study Jams
+### 1)<b>18th December <br> </b>
   <b><em>Getting started with Android</em></b><br>
 The first day of the session was dedicated to discussing different career paths in Android. A broad understanding of Android development was introduced, including a range of options for tools, technologies, and languages.<br> 
 A summary of the topics covered could be summarized as follows :
@@ -13,8 +13,10 @@ A summary of the topics covered could be summarized as follows :
 * Setting up a Google Developers Profile
 * Installation of Android Studio
 * Basics of Kotlin - Loops, Functions, Classes, Arrays and Conditional Statements 
-  
-2)<b>19th December <br> </b> 
+<img src="https://user-images.githubusercontent.com/77115663/172835671-ffc00232-b4eb-4d1c-8bf8-742adbd91360.PNG" width=800 height=400>
+<img src="https://user-images.githubusercontent.com/77115663/172835993-8889d66d-84e0-4694-99b1-855a97c7e2e6.PNG" width=800 height=400>
+ 
+### 2)<b>19th December <br> </b> 
   <b><em>Build your first App</em></b><br>
   An application that built a tip calculator gave a broad overview of the various pertinent topics in Android in the second session of the Android Study Jams. 
   Kotlin basics were also discussed to alleviate doubts.<br>
@@ -24,10 +26,12 @@ A summary of the topics covered could be summarized as follows :
   * Getting User Input 
   * Display a Scroll Bar List(Radio Buttons, Check Boxes, and Spinners)
   * Navigation activity (navigate between screens & navigation components)
-  
+ <img src="https://user-images.githubusercontent.com/77115663/172836028-87002084-6805-47ee-9af0-bb7f5da6658b.PNG" width=800 height=400>
+ <img src="https://user-images.githubusercontent.com/77115663/172836042-222cb4e9-73f6-45d3-b620-9335d40cef21.PNG" width=800 height=400>
+ 
   <h4>To know more about Tip Calculator App<a href="https://github.com/khandelwalabhi/TipCalculator"> visit here </a><br></h4>
 
-3)<b>20th December- 24th December</b><br>
+### 3)<b>20th December- 24th December</b><br>
   <b><em>Assignment week</em></b><br>
   This week's goal was for students to realize and apply what they have learned so far. Furthermore, they were required to complete Units 3 and 4 of Android Basics in   Kotlin in addition to ample practice time.<br>
   The following are the topics the students were assigned to study :
@@ -35,11 +39,12 @@ A summary of the topics covered could be summarized as follows :
   * Adaptive Layouts
   * Connect to the internet  
   
-4)<b>25th December <br> </b>
-  <em>Advance Android Programming</em>
-
-
-
+### 4)<b>25th December <br> </b>
+ <b> <em>Advance Android Programming</em></b>
+  
+<img src="https://user-images.githubusercontent.com/77115663/172836067-481212c8-384d-4d3f-a51f-7875647fc386.PNG" width=800 height=400>
+<img src="https://user-images.githubusercontent.com/77115663/172836087-d8442149-d8c4-459a-8e1a-99f31aa15446.PNG" width=800 height=400>
+ 
 
 
 
