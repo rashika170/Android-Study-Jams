@@ -36,7 +36,7 @@ A summary of the topics covered could be summarized as follows :
  <img src="https://user-images.githubusercontent.com/77115663/172836028-87002084-6805-47ee-9af0-bb7f5da6658b.PNG" width=800 height=400>
  <img src="https://user-images.githubusercontent.com/77115663/172836042-222cb4e9-73f6-45d3-b620-9335d40cef21.PNG" width=800 height=400>
  
-  <h4>To know more about Tip Calculator App<a href="https://github.com/khandelwalabhi/TipCalculator"> visit here </a><br></h4>
+  <h4>To know more about Tip Calculator App<a href="https://github.com/khandelwalabhi/TipCalculator"> visit here </a>.<br></h4>
 
 ### 3)<b>20th December- 24th December</b><br>
   <b><em>Assignment week</em></b><br>
@@ -44,7 +44,10 @@ A summary of the topics covered could be summarized as follows :
   The following are the topics the students were assigned to study :
   * Architecture components
   * Adaptive Layouts
-  * Connect to the internet  
+  * Connect to the internet 
+  
+In addition, the students were motivated to design an application according to their own interests or to design a dice roller app according to instructions provided in the curriculum.
+<h4>To know more about Dice Roller App<a href="https://github.com/rashika170/Dice-Roller"> visit here </a>.<br></h4>
   
 ### 4)<b>25th December <br> </b>
  <b> <em>Advance Android Programming</em></b>
