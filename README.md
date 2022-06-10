@@ -53,7 +53,7 @@ In addition, the students were motivated to design an application according to t
  <b> <em>Advance Android Programming</em></b>
   This was the final session of android study jams where a prior coding experience was mandatory. Students were required to have a sound knowledge of previously taught concepts so as to comprehend concepts of this session. <br>
   A summary of the topics covered could be summarized as follows :
-  * Data persistence : * Introduction to sql, Room and Flow
+  * Data persistence : Introduction to sql, Room and Flow
   * Use Room for Data Persistence
   * Work Manager : Schedule tasks
   
@@ -79,13 +79,13 @@ Follow the steps mentioned below :
 3. Start android Kotlin <a href="https://developer.android.com/courses/android-basics-kotlin/course">course</a> by Google.
 4. Practice code on <a href="https://developer.android.com/training/kotlinplayground"> Kotlin Playground</a>.
 5. Refer to <a href="https://developer.android.com/courses/android-basics-kotlin/android-basics-kotlin-vocab">Android Vocabulary</a> for minor doubts.
-6. Attend all the Codelabs in the course for a deeper understanding
+6. Attend all the Codelabs in the course for a deeper understanding.
 7. Sign in with your account to earn badges.
 
 ### Helping Hands
 A Kotlin-related application was also assigned to the Android Team to cover the maximum number of concepts. 
 Helping hands is an application we designed to support students with all aspects of their daily lives. This application helped students to learn the basics of Android with Kotlin and to arrange their daily tasks. Introducing a simple yet powerful mobile application to make life easier is the fundamental principle behind our application.
-<h4>To know more about Dice Roller App<a href="https://github.com/khandelwalabhi/HelpingHands"> visit here </a>.<br></h4>
+<h4>To know more about Helping Hands App<a href="https://github.com/khandelwalabhi/HelpingHands"> visit here </a>.<br></h4>
   
  ### Join <a href="https://gdsc.community.dev/national-institute-of-technology-nit-hamirpur/">GDSC NIT Hamirpur Chapter</a> to get latest details regarding events.
   
