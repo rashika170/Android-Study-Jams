@@ -82,7 +82,6 @@ Follow the steps mentioned below :
 6. Attend all the Codelabs in the course for a deeper understanding
 7. Sign in with your account to earn badges.
 
-https://github.com/khandelwalabhi/HelpingHands
 ### Helping Hands
 A Kotlin-related application was also assigned to the Android Team to cover the maximum number of concepts. 
 Helping hands is an application we designed to support students with all aspects of their daily lives. This application helped students to learn the basics of Android with Kotlin and to arrange their daily tasks. Introducing a simple yet powerful mobile application to make life easier is the fundamental principle behind our application.
