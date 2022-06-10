@@ -1,6 +1,7 @@
 # Android-Study-Jams
 
 ## Google Developers Student Club 
+### National Institute of Technology Hamirpur
 Android Study Jams are community-organized study groups for people to learn how to build Android apps in the Kotlin programming language, using the <a href="https://developer.android.com/courses/android-basics-kotlin/course">curriculum</a> provided by Google.<br>
 
 Android Study Jams were organized at GDSC NIT Hamirpur by the Android Team. Students were mentored for a month in Android fundamentals to advanced concepts. The objective of the event was to pique students' interest in Android Development by showcasing various career opportunities in the domain. Programs were conducted via Google Meet sessions and doubts were clarified via emails and WhatsApp groups. It was an active learning environment, where students gave positive feedback, and the students benefited from the interaction. Students who performed exceptionally well in Android Study Jams also received certificates of appreciation.
